@@ -37,7 +37,7 @@ function myMenuFunction(){
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
-    backDelay : 2000
+    backDelay : 1300
  })
 
 
